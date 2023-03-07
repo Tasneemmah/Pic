@@ -1,0 +1,29 @@
+ .div {
+    padding: 10px;
+    border: 1px solid #FCFFE7;
+    background-color:#FCFFE7;
+    width: 650px;
+    height: 600px;
+    border-right:solid 2px;
+  }
+
+  
+  .container {
+    display: flex;
+  }
+  .item {
+    background-color: #edecec;
+    flex-basis: 200px;
+    height: 200px;
+    width: 800px;
+    margin: 10px;
+  }
+
+ /* .a {
+    background-color:#7f4419;
+    border: 1px solid #0e0e0d;
+    width: 300px;
+    height: 600px;
+    display: block;
+    border: 5px solid rgb(1, 1, 1);
+    } */

@@ -1,0 +1,10 @@
+th, td {
+    border: 2px solid rgb(11, 10, 10);
+    border-radius: 10px;
+    flex-basis: 100px;
+    height: 25px;
+    width: 50px;
+    margin: 5px;
+    float: left;
+    box-shadow: 5px 5px 5px rgb(0, 0, 0);
+  }
